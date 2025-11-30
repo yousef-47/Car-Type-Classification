@@ -13,6 +13,4 @@ This repository contains dataset preparation code, model training scripts, evalu
 - Train, validate, and test the model
 - Deploy or test on real images
 
----
-
-## 📂 Project Structure (planned)
+- we can modify  
